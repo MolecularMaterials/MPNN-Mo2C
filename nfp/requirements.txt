@@ -1,0 +1,5 @@
+numpy
+tqdm
+tensorflow>2.0
+scikit-learn
+pytest
