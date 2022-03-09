@@ -12,7 +12,7 @@ Hieu A. Doan, Chenyang Li, Logan Ward, Mingxia Zhou, Larry A. Curtiss, and Rajee
 - Matplotlib (3.3.1) 
 
 # Instructions
-**Train the model and make predictions on the test set**
+##Train the model and make predictions on the test set
 
-**Preprocess .graphml files and create an input dataframe** 
+##Preprocess .graphml files and create an input dataframe
 
