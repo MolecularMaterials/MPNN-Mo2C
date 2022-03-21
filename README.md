@@ -17,7 +17,7 @@ Hieu A. Doan, Chenyang Li, Logan Ward, Mingxia Zhou, Larry A. Curtiss, and Rajee
 ## Preprocess .graphml files and create an input dataframe
 - Unzip **notebooks/Oads_Mo2C_graphml.tar.gz** that contains all .graphml files of adsorption geometries:\
 `tar -xvf Oads_Mo2C_graphml.tar.gz`
-- Run notebooks/**Oads_Mo2C_catalysts_PreprocessGraphStructure.ipynb** to convert graph data into a dataframe input for MPNN model
+- Run **notebooks/Oads_Mo2C_catalysts_PreprocessGraphStructure.ipynb** to convert graph data into a dataframe input for MPNN model
 
 ## Train the model and make predictions on the test set
 - Run **notebooks/Oads_Mo2C_catalysts.ipynb** 
