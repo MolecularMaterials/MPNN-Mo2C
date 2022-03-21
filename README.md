@@ -1,3 +1,4 @@
+![alt text](https://github.com/MolecularMaterials/MPNN-Mo2C/blob/main/MPNN-Mo2C.png?raw=true)
 # MPNN-Mo2C
 Python codes and graph data as described in:\
 ***"Accelerating Catalyst Screening via Machine-learned Local Coordination Graph Representations"***\
