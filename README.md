@@ -13,7 +13,7 @@ Hieu A. Doan, Chenyang Li, Logan Ward, Mingxia Zhou, Larry A. Curtiss, and Rajee
 - Seaborn (0.11.1)
 - Matplotlib (3.3.1) 
 
-# Instructions
+# Instructions 
 ## Preprocess .graphml files and create an input dataframe
 - Unzip **notebooks/Oads_Mo2C_graphml.tar.gz** that contains all .graphml files of adsorption geometries:\
 `tar -xvf Oads_Mo2C_graphml.tar.gz`
@@ -22,3 +22,7 @@ Hieu A. Doan, Chenyang Li, Logan Ward, Mingxia Zhou, Larry A. Curtiss, and Rajee
 ## Train the model and make predictions on the test set
 - Run **notebooks/Oads_Mo2C_catalysts.ipynb** 
 
+# Additional instructions for analyzing Atomic Simulation Environment (ASE) database and generating graphs in .graphml format
+If you want to experiment with building your own adsorption graphs from the VASP outputs used in the paper, please follow the steps below:
+1. Download the data in ASE database format (.db) from the Materials Data Facility [here](https://petreldata.net/mdf/detail/doan_datasets_accelerating_representations_v1.1/)
+2. Run **notebooks/DescriptorGen-networkxGraph-pristine-Mo2C.ipynb** and **notebooks/DescriptorGen-networkxGraph-doped-Mo2C.ipynb** with the downloaded "Oads_Mo2C_pristine_MDF.db" and "Oads_Mo2C_doped_MDF.db", respectively
