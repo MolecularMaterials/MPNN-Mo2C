@@ -1,5 +1,5 @@
->**Moved to [MolecularMaterials/nfp](https://github.com/MolecularMaterials/nfp)! Please follow the link to the new page for the latest updates.**
-![alt text](https://github.com/MolecularMaterials/MPNN-Mo2C/blob/main/MPNN-Mo2C.png?raw=true)
+## Moved to [MolecularMaterials/nfp](https://github.com/MolecularMaterials/nfp)! Please follow the link to the new page for the latest updates.
+
 # MPNN-Mo2C
 Python codes and graph data as described in:\
 ***"Accelerating the Evaluation of Crucial Descriptors for Catalyst Screening via Message Passing Neural Network"***\
