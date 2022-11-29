@@ -1,7 +1,8 @@
+>**Moved to [MolecularMaterials/nfp](https://github.com/MolecularMaterials/nfp)! Please follow the link to the new page for the latest updates.**
 ![alt text](https://github.com/MolecularMaterials/MPNN-Mo2C/blob/main/MPNN-Mo2C.png?raw=true)
 # MPNN-Mo2C
 Python codes and graph data as described in:\
-***"Accelerating Catalyst Screening via Machine-learned Local Coordination Graph Representations"***\
+***"Accelerating the Evaluation of Crucial Descriptors for Catalyst Screening via Message Passing Neural Network"***\
 Hieu A. Doan, Chenyang Li, Logan Ward, Mingxia Zhou, Larry A. Curtiss, and Rajeev S. Assary. 
 
 # Dependencies
